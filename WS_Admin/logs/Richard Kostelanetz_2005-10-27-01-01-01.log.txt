@@ -1,0 +1,2111 @@
+!!WebSTAR	STARTUP 26/Oct/05 01:00:50
+!!LOG_FORMAT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!!WebSTAR	STARTUP 25/Oct/05 23:13:45
+!!LOG_FORMAT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!!WebSTAR	STARTUP 26/Oct/05 07:54:30
+!!LOG_FORMAT BYTES_RECEIVED BYTES_SENT C-DNS C-IP CONNECTION_ID CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) CS-SIP CS-URI CS-URI-QUERY CS-URI-STEM DATE DAV_DEPTH DAV_DESTINATION DAV_OVERWRITE DAV_TRANSLATE FROM METHOD PATH_ARGS SC-STATUS TIME TIME_TAKEN URL USER
+0	4478	-	65.209.17.46	39	""	"richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	07:54:30	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	65.209.17.46	41	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	07:54:30	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	65.209.17.46	40	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	07:54:30	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	65.209.17.46	42	""	"richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	07:54:30	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	65.209.17.46	43	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	07:54:30	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30607	-	65.209.17.46	44	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	07:54:30	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	0	-	65.209.17.46	48	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/histories/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	07:54:34	00:00:03	_richardkostelanetz/kostiPrint.css	-
+0	0	-	65.209.17.46	49	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/histories/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	07:54:34	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	43384	-	65.209.17.46	50	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/histories/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_histories.jpg	-	/images/hdr/hdr_histories.jpg	10/26/05	-	-	-	-	-	GET	-	200	07:54:34	00:00:00	_richardkostelanetz/images/hdr/hdr_histories.jpg	-
+0	24064	-	65.209.17.46	47	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/histories/index.php	-	/histories/index.php	10/26/05	-	-	-	-	-	GET	-	200	07:54:34	00:00:03	_richardkostelanetz/histories/index.php	-
+0	2404	-	65.209.17.46	51	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/histories/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/examples/index.php	-	/examples/index.php	10/26/05	-	-	-	-	-	GET	-	200	07:54:39	00:00:00	_richardkostelanetz/examples/index.php	-
+0	0	-	65.209.17.46	52	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	07:54:39	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	65.209.17.46	53	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	07:54:39	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	26076	-	65.209.17.46	54	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_examples.jpg	-	/images/hdr/hdr_examples.jpg	10/26/05	-	-	-	-	-	GET	-	200	07:54:39	00:00:00	_richardkostelanetz/images/hdr/hdr_examples.jpg	-
+0	8971	-	65.209.17.46	55	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/prop/index.php	-	/prop/index.php	10/26/05	-	-	-	-	-	GET	-	200	07:54:43	00:00:03	_richardkostelanetz/prop/index.php	-
+0	0	-	65.209.17.46	56	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	07:54:43	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	65.209.17.46	58	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	07:54:43	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	65.209.17.46	57	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	07:54:43	00:00:03	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	10283	-	217.212.224.142	59	""	"www.richardkostelanetz.com"	""	"psbot/0.1 (+http://www.picsearch.com/bot.html)"	65.209.17.46:80	/invent/assembling.php	-	/invent/assembling.php	10/26/05	-	-	-	-	-	GET	-	200	07:54:46	00:00:00	_richardkostelanetz/invent/assembling.php	-
+0	3098	-	65.209.17.46	60	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/invent/index.php	-	/invent/index.php	10/26/05	-	-	-	-	-	GET	-	200	07:54:47	00:00:03	_richardkostelanetz/invent/index.php	-
+0	0	-	65.209.17.46	61	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	07:54:47	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	65.209.17.46	62	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	07:54:47	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	65.209.17.46	63	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	07:54:47	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	8548	-	65.209.17.46	64	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/invent/audio.php	-	/invent/audio.php	10/26/05	-	-	-	-	-	GET	-	200	07:54:50	00:00:03	_richardkostelanetz/invent/audio.php	-
+0	0	-	65.209.17.46	65	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/invent/audio.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	07:54:50	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	65.209.17.46	66	""	"richardkostelanetz.com"	"http://richardkostelanetz.com/invent/audio.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	07:54:50	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4478	-	200.49.93.164	1	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	07:58:48	00:00:00	_richardkostelanetz/index.html	-
+0	160915	-	217.212.224.146	9	""	"www.richardkostelanetz.com"	""	"psbot/0.1 (+http://www.picsearch.com/bot.html)"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	08:00:26	00:00:00	_richardkostelanetz/invent/mags.php	-
+0	11687	-	68.142.251.197	24	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/videoretro.php	-	/prop/videoretro.php	10/26/05	-	-	-	-	-	GET	-	200	08:06:00	00:00:00	_richardkostelanetz/prop/videoretro.php	-
+0	10881	-	217.212.224.142	25	""	"www.richardkostelanetz.com"	""	"psbot/0.1 (+http://www.picsearch.com/bot.html)"	65.209.17.46:80	/prop/preambles.php	-	/prop/preambles.php	10/26/05	-	-	-	-	-	GET	-	200	08:06:04	00:00:00	_richardkostelanetz/prop/preambles.php	-
+0	10169	-	212.165.135.237	43	""	"www.richardkostelanetz.com"	"http://search.yahoo.com/search?p=thesis+proposals+with+examples&ei=UTF-8&fr=logout&b=21"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/maturity.php	-	/prop/maturity.php	10/26/05	-	-	-	-	-	GET	-	200	08:11:27	00:00:00	_richardkostelanetz/prop/maturity.php	-
+0	0	-	212.165.135.237	44	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:11:29	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	212.165.135.237	45	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	08:11:29	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	212.165.135.237	46	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:11:31	00:00:04	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	212.165.135.237	47	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	08:11:31	00:00:01	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	11000	-	217.212.224.143	48	""	"www.richardkostelanetz.com"	""	"psbot/0.1 (+http://www.picsearch.com/bot.html)"	65.209.17.46:80	/prop/allalong.php	-	/prop/allalong.php	10/26/05	-	-	-	-	-	GET	-	200	08:11:40	00:00:00	_richardkostelanetz/prop/allalong.php	-
+0	13547	-	217.212.224.159	67	""	"www.richardkostelanetz.com"	""	"psbot/0.1 (+http://www.picsearch.com/bot.html)"	65.209.17.46:80	/prop/choice.php	-	/prop/choice.php	10/26/05	-	-	-	-	-	GET	-	200	08:17:17	00:00:00	_richardkostelanetz/prop/choice.php	-
+0	0	-	152.78.91.46	84	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:22:09	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	85	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:22:09	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	86	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:22:09	00:00:00	_richardkostelanetz/favicon.ico	-
+0	3098	-	152.78.91.46	87	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/invent/index.php	-	/invent/index.php	10/26/05	-	-	-	-	-	GET	-	200	08:22:19	00:00:00	_richardkostelanetz/invent/index.php	-
+0	0	-	152.78.91.46	88	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:22:19	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	89	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:22:19	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	90	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:22:20	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	66.249.72.9	91	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	08:22:25	00:00:00	_richardkostelanetz/index.html	-
+0	4127	-	152.78.91.46	92	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/links/index.php	-	/links/index.php	10/26/05	-	-	-	-	-	GET	-	200	08:22:30	00:00:00	_richardkostelanetz/links/index.php	-
+0	0	-	152.78.91.46	93	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/links/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:22:30	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	94	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/links/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:22:30	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	95	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:22:30	00:00:00	_richardkostelanetz/favicon.ico	-
+0	10464	-	67.161.71.9	96	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&hs=Cfj&client=firefox-a&rls=org.mozilla:en-US:official&q=lovings&spell=1"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/prop/lovings.php	-	/prop/lovings.php	10/26/05	-	-	-	-	-	GET	-	200	08:22:35	00:00:00	_richardkostelanetz/prop/lovings.php	-
+0	4388	-	67.161.71.9	97	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	08:22:36	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	67.161.71.9	98	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:22:36	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	30591	-	67.161.71.9	99	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	08:22:36	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	67.161.71.9	100	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:22:36	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	67.161.71.9	101	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:22:36	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	67.161.71.9	102	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:22:36	00:00:00	_richardkostelanetz/favicon.ico	-
+0	12873	-	217.212.224.142	103	""	"www.richardkostelanetz.com"	""	"psbot/0.1 (+http://www.picsearch.com/bot.html)"	65.209.17.46:80	/prop/lasvegas.php	-	/prop/lasvegas.php	10/26/05	-	-	-	-	-	GET	-	200	08:22:52	00:00:00	_richardkostelanetz/prop/lasvegas.php	-
+0	0	-	152.78.91.46	104	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/links/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:23:38	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	105	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/links/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:23:38	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	106	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:23:38	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	152.78.91.46	107	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/links/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:24:02	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	108	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/links/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:24:03	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	109	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:24:03	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	152.78.91.46	110	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:24:08	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	111	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:24:08	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	112	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:24:08	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	152.78.91.46	113	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:24:10	00:00:01	_richardkostelanetz/kostiPrint.css	-
+0	0	-	152.78.91.46	114	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:24:10	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	152.78.91.46	115	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	08:24:11	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	65.209.17.221	132	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	08:28:45	00:00:00	_richardkostelanetz/index.html	-
+0	10385	-	195.54.245.130	205	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/comedians.php	-	/prop/comedians.php	10/26/05	-	-	-	-	-	GET	-	200	08:43:56	00:00:00	_richardkostelanetz/prop/comedians.php	-
+0	0	-	195.54.245.130	206	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:43:56	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	195.54.245.130	207	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	08:43:57	00:00:00	_richardkostelanetz/kosti.css	-
+0	30591	-	195.54.245.130	208	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	08:43:57	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	195.54.245.130	209	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:43:57	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4478	-	83.154.24.226	218	""	"www.richardkostelanetz.com"	"http://www.google.fr/search?hl=fr&q=Kostelanetz&meta="	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	08:48:09	00:00:00	_richardkostelanetz/index.html	-
+0	4388	-	83.154.24.226	219	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	08:48:10	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	83.154.24.226	220	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:48:10	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	221	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:48:10	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30607	-	83.154.24.226	222	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	08:48:10	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	3098	-	83.154.24.226	231	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/invent/index.php	-	/invent/index.php	10/26/05	-	-	-	-	-	GET	-	200	08:48:42	00:00:00	_richardkostelanetz/invent/index.php	-
+0	0	-	83.154.24.226	232	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:48:42	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	233	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:48:42	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	83.154.24.226	234	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	08:48:43	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	11351	-	83.154.24.226	235	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/invent/films.php	-	/invent/films.php	10/26/05	-	-	-	-	-	GET	-	200	08:48:45	00:00:02	_richardkostelanetz/invent/films.php	-
+0	0	-	83.154.24.226	236	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:48:45	00:00:02	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	237	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:48:45	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	7960	-	83.154.24.226	238	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/invent/future.php	-	/invent/future.php	10/26/05	-	-	-	-	-	GET	-	200	08:49:07	00:00:00	_richardkostelanetz/invent/future.php	-
+0	0	-	83.154.24.226	239	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/future.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:49:07	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	240	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/future.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:49:08	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	50661	-	83.154.24.226	241	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/future.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/invent/archae.php	-	/invent/archae.php	10/26/05	-	-	-	-	-	GET	-	200	08:49:15	00:00:00	_richardkostelanetz/invent/archae.php	-
+0	0	-	83.154.24.226	242	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:49:16	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	243	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:49:16	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	83.154.24.226	244	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/future.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:49:25	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	245	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/future.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:49:25	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	83.154.24.226	246	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:49:26	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	247	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:49:26	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	83.154.24.226	248	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:49:26	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	83.154.24.226	249	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:49:26	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	68.142.251.146	258	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	08:51:31	00:00:00	_richardkostelanetz/robots.txt	-
+0	15663	-	68.142.251.14	259	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/lectures.php	-	/prop/lectures.php	10/26/05	-	-	-	-	-	GET	-	200	08:51:31	00:00:00	_richardkostelanetz/prop/lectures.php	-
+0	11021	-	160.75.40.207	272	""	"www.richardkostelanetz.com"	"http://www.google.com.tr/search?q=berlin+bombing+images+1945&hl=tr&lr=&start=30&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/nadir.php	-	/prop/nadir.php	10/26/05	-	-	-	-	-	GET	-	200	08:55:37	00:00:00	_richardkostelanetz/prop/nadir.php	-
+0	0	-	160.75.40.207	273	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	08:55:38	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	160.75.40.207	274	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	08:55:39	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	160.75.40.207	275	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	08:55:39	00:00:01	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	160.75.40.207	276	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	08:55:39	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	83.84.145.220	399	""	"www.RichardKostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	09:24:45	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	514	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	09:28:44	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	66.249.72.9	515	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	09:29:15	00:00:00	_richardkostelanetz/robots.txt	-
+0	43026	-	209.149.94.250	558	""	"www.richardkostelanetz.com"	"http://search.msn.com/results.aspx?q=Mary+Cassat+Works+Cited+Page&FORM=MSNH&srch_type=0"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/prop/artists.php	-	/prop/artists.php	10/26/05	-	-	-	-	-	GET	-	200	09:37:18	00:00:00	_richardkostelanetz/prop/artists.php	-
+0	0	-	209.149.94.250	559	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	09:37:18	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	209.149.94.250	560	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	09:37:18	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	209.149.94.250	561	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	09:37:19	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	209.149.94.250	562	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	09:37:19	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	43026	-	209.149.94.250	573	""	"www.richardkostelanetz.com"	"http://search.msn.com/results.aspx?q=Mary+Cassat+Works+Cited+Page&FORM=MSNH&srch_type=0"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/prop/artists.php	-	/prop/artists.php	10/26/05	-	-	-	-	-	GET	-	200	09:41:06	00:00:00	_richardkostelanetz/prop/artists.php	-
+0	0	-	209.149.94.250	574	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	09:41:07	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	209.149.94.250	575	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	09:41:07	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	68.142.251.146	115	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	10:01:43	00:00:00	_richardkostelanetz/robots.txt	-
+0	20806	-	68.142.250.121	117	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/interns.php	-	/prop/interns.php	10/26/05	-	-	-	-	-	GET	-	200	10:01:44	00:00:00	_richardkostelanetz/prop/interns.php	-
+0	4388	-	66.68.128.203	223	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	10:26:17	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	66.68.128.203	224	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	10:26:17	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	66.68.128.203	225	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	10:26:17	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	66.68.128.203	226	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	10:26:17	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	160915	-	66.68.128.203	222	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&lr=&client=safari&rls=en-us&q=llewellyn+cartoons+argosy&btnG=Search"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	10:26:19	00:00:03	_richardkostelanetz/invent/mags.php	-
+0	0	-	66.68.128.203	227	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	10:26:21	00:00:01	_richardkostelanetz/favicon.ico	-
+0	16071	-	82.42.108.7	228	""	"www.richardkostelanetz.com"	"http://www.google.co.uk/search?hl=en&q=Gesang+Der+Junglinge+live+performance&btnG=Search&meta="	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/kaddish.php	-	/prop/kaddish.php	10/26/05	-	-	-	-	-	GET	-	200	10:27:08	00:00:00	_richardkostelanetz/prop/kaddish.php	-
+0	0	-	82.42.108.7	229	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/kaddish.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	10:27:08	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	82.42.108.7	230	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/kaddish.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	10:27:08	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	82.42.108.7	231	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/kaddish.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	10:27:09	00:00:01	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	82.42.108.7	232	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/kaddish.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	10:27:09	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	65.209.17.221	241	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	10:28:43	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	64.12.116.200	250	""	"www.richardkostelanetz.com"	"http://www.gardendigest.com/concrete/concr1.htm"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:1.0.2) Gecko/20020924 AOL/7.0"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	10:31:00	00:00:00	_richardkostelanetz/index.html	-
+0	4388	-	64.12.116.69	251	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:1.0.2) Gecko/20020924 AOL/7.0"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	10:31:00	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	64.12.116.196	252	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:1.0.2) Gecko/20020924 AOL/7.0"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	10:31:00	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	30607	-	64.12.116.11	253	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:1.0.2) Gecko/20020924 AOL/7.0"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	10:31:01	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	0	-	64.12.116.203	254	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:1.0.2) Gecko/20020924 AOL/7.0"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	10:31:01	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	21179	-	193.204.167.87	370	""	"www.richardkostelanetz.com"	"http://www.google.it/search?q=maynard+solomon+conference&hl=it&lr=&start=30&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)"	65.209.17.46:80	/prop/ives.php	-	/prop/ives.php	10/26/05	-	-	-	-	-	GET	-	200	10:38:16	00:00:00	_richardkostelanetz/prop/ives.php	-
+0	0	-	193.204.167.87	371	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/ives.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	10:38:17	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	193.204.167.87	372	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/ives.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	10:38:17	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	193.204.167.87	373	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/ives.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	10:38:17	00:00:01	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	193.204.167.87	374	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/ives.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	10:38:17	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	66.196.91.167	458	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	10:45:32	00:00:00	_richardkostelanetz/robots.txt	-
+0	330292	-	66.196.91.14	460	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/histories/bib.php	-	/histories/bib.php	10/26/05	-	-	-	-	-	GET	-	200	10:45:49	00:00:04	_richardkostelanetz/histories/bib.php	-
+0	0	-	64.124.122.228	492	""	"www.richardkostelanetz.com"	""	"WebMiner (Web Miner; http://64.124.122.252/feedback.html)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	10:51:29	00:00:00	_richardkostelanetz/robots.txt	-
+0	4478	-	64.124.122.228	520	""	"www.richardkostelanetz.com"	""	"WebMiner (Web Miner; http://64.124.122.252/feedback.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	10:52:18	00:00:00	_richardkostelanetz/index.html	-
+0	10169	-	134.153.181.59	533	""	"www.richardkostelanetz.com"	"http://www.google.ca/search?hl=en&q=post-WWII+america&meta="	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/maturity.php	-	/prop/maturity.php	10/26/05	-	-	-	-	-	GET	-	200	10:56:03	00:00:00	_richardkostelanetz/prop/maturity.php	-
+0	0	-	134.153.181.59	534	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	10:56:03	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	134.153.181.59	535	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	10:56:03	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	134.153.181.59	536	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	10:56:03	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	134.153.181.59	537	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/maturity.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	10:56:03	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	12273	-	172.201.249.227	562	""	"www.richardkostelanetz.com"	"http://www.google.co.uk/search?q=essays+on+denby+dance+criticism&hl=en&lr=&start=10&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/prop/merce.php	-	/prop/merce.php	10/26/05	-	-	-	-	-	GET	-	200	10:59:03	00:00:00	_richardkostelanetz/prop/merce.php	-
+0	0	-	172.201.249.227	563	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/merce.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	10:59:04	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	172.201.249.227	564	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/merce.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	10:59:05	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	172.201.249.227	565	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/merce.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	10:59:06	00:00:02	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	172.201.249.227	566	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/merce.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	10:59:06	00:00:01	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	66.249.72.9	826	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	11:21:20	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	69.60.118.40	909	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	206	11:28:24	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	910	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	11:28:43	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	24.149.180.84	920	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	11:31:38	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	24.149.180.84	921	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	11:31:38	00:00:00	_richardkostelanetz/kosti.css	-
+0	160915	-	24.149.180.84	919	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	11:31:38	00:00:00	_richardkostelanetz/invent/mags.php	-
+0	0	-	24.149.180.84	922	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	11:31:38	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	24.149.180.84	923	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	11:31:38	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	0	-	68.142.251.146	1039	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	11:43:18	00:00:00	_richardkostelanetz/robots.txt	-
+0	13383	-	68.142.250.186	1040	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/alternative.php	-	/prop/alternative.php	10/26/05	-	-	-	-	-	GET	-	200	11:43:19	00:00:00	_richardkostelanetz/prop/alternative.php	-
+0	10673	-	132.194.83.227	1327	""	"www.richardkostelanetz.com"	"http://www.google.com/search?q=judeo-spanish+of+new+york&hl=en&lr=&start=10&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/iwasborn.php	-	/prop/iwasborn.php	10/26/05	-	-	-	-	-	GET	-	200	11:58:02	00:00:00	_richardkostelanetz/prop/iwasborn.php	-
+0	0	-	132.194.83.227	1328	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	11:58:02	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	132.194.83.227	1329	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	11:58:02	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	132.194.83.227	1330	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	11:58:02	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	132.194.83.227	1331	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	11:58:02	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	65.209.17.221	1520	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	12:28:42	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	216.255.199.108	1545	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	12:37:18	00:00:00	_richardkostelanetz/index.html	-
+0	13352	-	68.115.81.250	1546	""	"www.richardkostelanetz.com"	"http://www.google.com/search?q=judy+grahn+a+woman+is+talking+to+death&hl=en&lr=&rls=RNWI,RNWI:2005-03,RNWI:en&start=30&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alawar 2.08)"	65.209.17.46:80	/prop/possibilities.php	-	/prop/possibilities.php	10/26/05	-	-	-	-	-	GET	-	200	12:37:18	00:00:00	_richardkostelanetz/prop/possibilities.php	-
+0	0	-	68.115.81.250	1547	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/possibilities.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alawar 2.08)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	12:37:19	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	68.115.81.250	1548	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/possibilities.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alawar 2.08)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	12:37:19	00:00:00	_richardkostelanetz/kosti.css	-
+0	30591	-	68.115.81.250	1549	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/possibilities.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alawar 2.08)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	12:37:20	00:00:01	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	68.115.81.250	1550	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/possibilities.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alawar 2.08)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	12:37:20	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	33440	-	83.245.83.169	1573	""	"www.richardkostelanetz.com"	"http://www.google.co.uk/search?hl=en&q=ernest+patten+american+artist&spell=1"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"	65.209.17.46:80	/prop/arts.php	-	/prop/arts.php	10/26/05	-	-	-	-	-	GET	-	200	12:43:52	00:00:00	_richardkostelanetz/prop/arts.php	-
+0	0	-	83.245.83.169	1574	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/arts.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	12:43:52	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	83.245.83.169	1575	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/arts.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	12:43:52	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	83.245.83.169	1576	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/arts.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	12:43:53	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	83.245.83.169	1577	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/arts.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	12:43:53	00:00:01	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	12995	-	201.250.94.197	1586	""	"www.richardkostelanetz.com"	"http://www.google.com.ar/search?hl=es&q=steve+reich+%22music+as+gradual+process%22&meta="	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/prop/composerswriters.php	-	/prop/composerswriters.php	10/26/05	-	-	-	-	-	GET	-	200	12:45:52	00:00:00	_richardkostelanetz/prop/composerswriters.php	-
+0	4388	-	201.250.94.197	1587	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	12:45:53	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	201.250.94.197	1588	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	12:45:53	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	201.250.94.197	1589	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	12:45:53	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	201.250.94.197	1590	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	12:46:14	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	201.250.94.197	1591	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	12:46:14	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	2404	-	201.250.94.197	1608	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/examples/index.php	-	/examples/index.php	10/26/05	-	-	-	-	-	GET	-	200	12:52:56	00:00:00	_richardkostelanetz/examples/index.php	-
+0	0	-	201.250.94.197	1609	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	12:52:56	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	201.250.94.197	1610	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	12:52:56	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	26076	-	201.250.94.197	1611	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/images/hdr/hdr_examples.jpg	-	/images/hdr/hdr_examples.jpg	10/26/05	-	-	-	-	-	GET	-	200	12:52:56	00:00:00	_richardkostelanetz/images/hdr/hdr_examples.jpg	-
+0	0	-	201.250.94.197	1612	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	12:53:00	00:00:03	_richardkostelanetz/kostiPrint.css	-
+0	0	-	201.250.94.197	1613	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	12:53:01	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	15520	-	201.250.94.197	1614	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/prop/1960s.php	-	/prop/1960s.php	10/26/05	-	-	-	-	-	GET	-	200	12:53:43	00:00:00	_richardkostelanetz/prop/1960s.php	-
+0	0	-	201.250.94.197	1615	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/1960s.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	12:53:43	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	201.250.94.197	1616	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/1960s.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2) Gecko/20021120 Netscape/7.01"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	12:53:44	00:00:01	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	12873	-	207.200.116.196	1855	""	"www.richardkostelanetz.com"	"http://aolsearcht4.search.aol.com/aol/search?invocationType=wscreen-searchbox&query=las%20vegas%20symphony"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Hotbar 4.6.1)"	65.209.17.46:80	/prop/lasvegas.php	-	/prop/lasvegas.php	10/26/05	-	-	-	-	-	GET	-	200	13:14:12	00:00:00	_richardkostelanetz/prop/lasvegas.php	-
+0	4388	-	207.200.116.66	1856	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Hotbar 4.6.1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	13:14:13	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	207.200.116.135	1857	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Hotbar 4.6.1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	13:14:13	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	207.200.116.195	1858	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Hotbar 4.6.1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	13:14:14	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	207.200.116.74	1859	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Hotbar 4.6.1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	13:14:14	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	68.142.251.146	1988	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	13:27:08	00:00:00	_richardkostelanetz/robots.txt	-
+0	10673	-	68.142.250.163	1989	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/iwasborn.php	-	/prop/iwasborn.php	10/26/05	-	-	-	-	-	GET	-	200	13:27:09	00:00:00	_richardkostelanetz/prop/iwasborn.php	-
+0	4478	-	65.209.17.221	2000	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	13:28:41	00:00:00	_richardkostelanetz/index.html	-
+0	11023	-	64.230.54.143	4	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/continuing.php	-	/prop/continuing.php	10/26/05	-	-	-	-	-	GET	-	200	13:34:04	00:00:00	_richardkostelanetz/prop/continuing.php	-
+0	0	-	64.230.54.143	5	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	13:34:04	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	64.230.54.143	6	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	13:34:04	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	64.230.54.143	7	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	13:34:04	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	64.230.54.143	8	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	13:34:04	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	12147	-	64.230.54.143	10	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/public.php	-	/prop/public.php	10/26/05	-	-	-	-	-	GET	-	200	13:34:38	00:00:00	_richardkostelanetz/prop/public.php	-
+0	0	-	64.230.54.143	11	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	13:34:39	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	64.230.54.143	12	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	13:34:39	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	64.230.54.143	13	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	13:35:12	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	64.230.54.143	14	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	13:35:13	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	64.230.54.143	15	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	13:35:21	00:00:00	_richardkostelanetz/favicon.ico	-
+0	12147	-	169.226.159.251	33	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hs=UyT&hl=en&lr=&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&q=%22art+proposal%22+nys&btnG=Search"	"Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"	65.209.17.46:80	/prop/public.php	-	/prop/public.php	10/26/05	-	-	-	-	-	GET	-	200	13:41:28	00:00:00	_richardkostelanetz/prop/public.php	-
+0	4388	-	169.226.159.251	34	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	13:41:28	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	169.226.159.251	35	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	13:41:28	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	169.226.159.251	36	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	13:41:28	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	169.226.159.251	37	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	13:41:28	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	169.226.159.251	38	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	13:41:29	00:00:00	_richardkostelanetz/favicon.ico	-
+0	11088	-	68.142.251.173	47	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/exvideo.php	-	/prop/exvideo.php	10/26/05	-	-	-	-	-	GET	-	200	13:44:41	00:00:00	_richardkostelanetz/prop/exvideo.php	-
+0	10974	-	133.1.96.191	66	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; JavaApp)"	65.209.17.46:80	/prop/berlinlost.php	-	/prop/berlinlost.php	10/26/05	-	-	-	-	-	GET	-	200	13:47:39	00:00:00	_richardkostelanetz/prop/berlinlost.php	-
+0	12873	-	67.40.15.47	240	""	"www.richardkostelanetz.com"	"http://search.msn.com/results.aspx?q=winn+hotel+las+vegas+interiors&FORM=QBRE"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/lasvegas.php	-	/prop/lasvegas.php	10/26/05	-	-	-	-	-	GET	-	200	14:00:45	00:00:00	_richardkostelanetz/prop/lasvegas.php	-
+0	0	-	67.40.15.47	241	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:00:45	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	67.40.15.47	242	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	14:00:45	00:00:00	_richardkostelanetz/kosti.css	-
+0	30591	-	67.40.15.47	243	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:00:46	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	67.40.15.47	244	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lasvegas.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:00:46	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4388	-	82.152.184.95	103	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Opera/7.23 (Windows NT 5.0; U)  [en]"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	14:15:58	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	82.152.184.95	104	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Opera/7.23 (Windows NT 5.0; U)  [en]"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:15:59	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	82.152.184.95	105	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Opera/7.23 (Windows NT 5.0; U)  [en]"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:15:59	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	82.152.184.95	106	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Opera/7.23 (Windows NT 5.0; U)  [en]"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:15:59	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	160915	-	82.152.184.95	102	""	"www.richardkostelanetz.com"	"http://www.google.com/search?client=opera&rls=en&q=%22+THE+BEST+FROM+FANTASY+%26+SCIENCE+FICTION+20TH+SERIES%22&sourceid=opera&ie=utf-8&oe=utf-8"	"Opera/7.23 (Windows NT 5.0; U)  [en]"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	14:16:00	00:00:01	_richardkostelanetz/invent/mags.php	-
+0	11944	-	24.11.89.192	215	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=saddle+articulations&spell=1"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/bilingual.php	-	/prop/bilingual.php	10/26/05	-	-	-	-	-	GET	-	200	14:21:41	00:00:00	_richardkostelanetz/prop/bilingual.php	-
+0	0	-	24.11.89.192	216	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/bilingual.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:21:42	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	24.11.89.192	217	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/bilingual.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	14:21:42	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	24.11.89.192	218	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/bilingual.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:21:42	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	24.11.89.192	219	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/bilingual.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:21:42	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	66.249.72.9	220	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	14:21:55	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	318	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	14:28:41	00:00:00	_richardkostelanetz/index.html	-
+0	50661	-	206.252.143.35	405	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=archae+editions+kostelanetz&spell=1"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/invent/archae.php	-	/invent/archae.php	10/26/05	-	-	-	-	-	GET	-	200	14:40:09	00:00:00	_richardkostelanetz/invent/archae.php	-
+0	0	-	206.252.143.35	406	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:40:10	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	206.252.143.35	407	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	14:40:10	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	206.252.143.35	408	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:40:10	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	206.252.143.35	409	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:40:10	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	0	-	66.196.91.167	428	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	14:45:37	00:00:00	_richardkostelanetz/robots.txt	-
+0	330292	-	66.196.91.14	429	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/histories/bib.php	-	/histories/bib.php	10/26/05	-	-	-	-	-	GET	-	200	14:45:48	00:00:01	_richardkostelanetz/histories/bib.php	-
+0	50661	-	206.252.143.35	438	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=kostelanetz+archae+editions"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/invent/archae.php	-	/invent/archae.php	10/26/05	-	-	-	-	-	GET	-	200	14:49:51	00:00:00	_richardkostelanetz/invent/archae.php	-
+0	0	-	206.252.143.35	439	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:49:51	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	206.252.143.35	440	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:49:51	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4478	-	206.252.143.35	449	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=richard+kostelanetz"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	14:53:15	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	206.252.143.35	450	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:53:15	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	206.252.143.35	451	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	304	14:53:15	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	206.252.143.35	452	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:53:15	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30607	-	206.252.143.35	453	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:53:15	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	3098	-	206.252.143.35	454	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/invent/index.php	-	/invent/index.php	10/26/05	-	-	-	-	-	GET	-	200	14:53:36	00:00:00	_richardkostelanetz/invent/index.php	-
+0	0	-	206.252.143.35	455	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:53:36	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	206.252.143.35	456	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	304	14:53:36	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	0	-	206.252.143.35	457	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:53:36	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	50661	-	206.252.143.35	458	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/invent/archae.php	-	/invent/archae.php	10/26/05	-	-	-	-	-	GET	-	200	14:53:41	00:00:00	_richardkostelanetz/invent/archae.php	-
+0	0	-	206.252.143.35	459	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:53:41	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	206.252.143.35	460	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:53:42	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	206.252.143.35	461	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:54:01	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	206.252.143.35	462	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:54:01	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	206.252.143.35	463	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:54:02	00:00:01	_richardkostelanetz/kostiPrint.css	-
+0	0	-	206.252.143.35	464	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:54:02	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4478	-	128.175.155.150	486	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	14:58:03	00:00:00	_richardkostelanetz/index.html	-
+0	4388	-	128.175.155.150	487	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	14:58:03	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	128.175.155.150	488	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:58:03	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	489	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:58:03	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30607	-	128.175.155.150	490	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:58:03	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	50661	-	128.175.155.150	496	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=Archae+Editions&btnG=Google+Search"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/invent/archae.php	-	/invent/archae.php	10/26/05	-	-	-	-	-	GET	-	200	14:59:12	00:00:00	_richardkostelanetz/invent/archae.php	-
+0	0	-	128.175.155.150	497	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	304	14:59:12	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	128.175.155.150	498	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:59:12	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	499	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:59:13	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	128.175.155.150	500	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/archae.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	14:59:13	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	0	-	128.175.155.150	501	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&lr=&q=Archae+Editions+Internships&btnG=Search"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	304	14:59:52	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	128.175.155.150	502	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	304	14:59:52	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	128.175.155.150	503	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	14:59:52	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	504	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	14:59:52	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	128.175.155.150	505	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	304	14:59:52	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	8971	-	128.175.155.150	506	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/prop/index.php	-	/prop/index.php	10/26/05	-	-	-	-	-	GET	-	200	15:00:04	00:00:00	_richardkostelanetz/prop/index.php	-
+0	0	-	128.175.155.150	507	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	304	15:00:05	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	128.175.155.150	508	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:00:05	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	509	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:00:05	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	128.175.155.150	510	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	15:00:05	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	20806	-	128.175.155.150	511	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/prop/interns.php	-	/prop/interns.php	10/26/05	-	-	-	-	-	GET	-	200	15:00:17	00:00:00	_richardkostelanetz/prop/interns.php	-
+0	0	-	128.175.155.150	512	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/interns.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	304	15:00:17	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	128.175.155.150	513	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/interns.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:00:17	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	514	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/interns.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:00:17	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	128.175.155.150	515	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/interns.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	304	15:00:17	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	128.175.155.150	528	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:02:04	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	529	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:02:04	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	128.175.155.150	530	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:02:06	00:00:01	_richardkostelanetz/kostiPrint.css	-
+0	0	-	128.175.155.150	531	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:02:06	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	14470	-	63.83.190.236	725	""	"www.richardkostelanetz.com"	"http://www.google.com/search?q=rockaway+peninsula+ecology&hl=en&lr=&start=10&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/rockaways.php	-	/prop/rockaways.php	10/26/05	-	-	-	-	-	GET	-	200	15:07:49	00:00:00	_richardkostelanetz/prop/rockaways.php	-
+0	0	-	63.83.190.236	726	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/rockaways.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:07:49	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	63.83.190.236	727	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/rockaways.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	15:07:50	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	63.83.190.236	728	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/rockaways.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:07:50	00:00:01	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	63.83.190.236	729	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/rockaways.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	15:07:50	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	43026	-	207.200.116.139	876	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&ie=ISO-8859-1&q=consistencies+of+style+and+theme+of+poems+by+langston+hughes"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/artists.php	-	/prop/artists.php	10/26/05	-	-	-	-	-	GET	-	200	15:09:35	00:00:00	_richardkostelanetz/prop/artists.php	-
+0	0	-	207.200.116.135	880	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:09:42	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	207.200.116.195	881	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/artists.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:09:43	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	11945	-	193.11.194.17	882	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hs=Li&hl=de&client=firefox-a&rls=org.mozilla%3Ade-DE%3Aofficial&q=John+Cage%2C+%E2%80%9CMesostics%E2%80%9D+poetry&btnG=Suche&lr="	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/prop/cage.php	-	/prop/cage.php	10/26/05	-	-	-	-	-	GET	-	200	15:11:36	00:00:00	_richardkostelanetz/prop/cage.php	-
+0	4388	-	193.11.194.17	883	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	15:11:37	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	193.11.194.17	884	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:11:37	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	193.11.194.17	885	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:11:37	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	193.11.194.17	886	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	15:11:37	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	193.11.194.17	887	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	15:11:37	00:00:00	_richardkostelanetz/favicon.ico	-
+0	2404	-	193.11.194.17	914	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/examples/index.php	-	/examples/index.php	10/26/05	-	-	-	-	-	GET	-	200	15:13:01	00:00:00	_richardkostelanetz/examples/index.php	-
+0	0	-	193.11.194.17	915	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:13:01	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	193.11.194.17	916	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:13:02	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	26076	-	193.11.194.17	917	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/hdr/hdr_examples.jpg	-	/images/hdr/hdr_examples.jpg	10/26/05	-	-	-	-	-	GET	-	200	15:13:02	00:00:00	_richardkostelanetz/images/hdr/hdr_examples.jpg	-
+0	0	-	193.11.194.17	918	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	15:13:02	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	193.11.194.17	919	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:13:16	00:00:01	_richardkostelanetz/kostiPrint.css	-
+0	0	-	193.11.194.17	920	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:13:16	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	193.11.194.17	921	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; de-DE; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	15:13:17	00:00:00	_richardkostelanetz/favicon.ico	-
+0	10548	-	209.166.232.60	1000	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&lr=&q=Aryeh+Cohen-Wade&btnG=Search"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/prop/auto5060.php	-	/prop/auto5060.php	10/26/05	-	-	-	-	-	GET	-	200	15:25:45	00:00:00	_richardkostelanetz/prop/auto5060.php	-
+0	4388	-	209.166.232.60	1001	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/auto5060.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	15:25:45	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	209.166.232.60	1002	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/auto5060.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:25:45	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	209.166.232.60	1003	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/auto5060.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:25:45	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	209.166.232.60	1004	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/auto5060.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	15:25:45	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	209.166.232.60	1005	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/312.5.1 (KHTML, like Gecko) Safari/312.3.1"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	15:25:46	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	65.209.17.221	1015	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	15:28:40	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	68.142.251.146	1024	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	15:31:11	00:00:00	_richardkostelanetz/robots.txt	-
+0	12406	-	68.142.250.41	1025	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/damon.php	-	/prop/damon.php	10/26/05	-	-	-	-	-	GET	-	200	15:31:11	00:00:00	_richardkostelanetz/prop/damon.php	-
+0	0	-	85.106.211.44	1077	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Superonline; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	15:49:33	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	160915	-	85.106.211.44	1076	""	"www.richardkostelanetz.com"	"http://www.google.com.tr/search?q=the+american+dream+drama+edward+albee+e-book+&hl=tr&lr=&start=20&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Superonline; SV1)"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	15:49:33	00:00:04	_richardkostelanetz/invent/mags.php	-
+0	4388	-	85.106.211.44	1078	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Superonline; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	15:49:34	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	85.106.211.44	1079	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Superonline; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	15:49:39	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	85.106.211.44	1080	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Superonline; SV1)"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	15:49:40	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	0	-	66.222.28.150	1097	""	"www.richardkostelanetz.com"	""	"Mozilla/4.5 [en] (Win98; I)"	65.209.17.46:80	/prop/rock.php	-	/prop/rock.php	10/26/05	-	-	-	-	-	HEAD	-	200	15:54:27	00:00:00	_richardkostelanetz/prop/rock.php	-
+0	12197	-	216.204.174.66	1149	""	"www.richardkostelanetz.com"	"http://www.google.com/search?q=%22Fennimore+Cooper%27s+Literary+Offenses%22+by+Mark+Twain&sourceid=mozilla-search&start=0&start=0&ie=utf-8&oe=utf-8&client=firefox&rls=org.mozilla:en-US:unofficial"	"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050925 Firefox/1.0.4 StumbleUpon/1.999 (Debian package 1.0.4-2sarge5)"	65.209.17.46:80	/prop/demolition.php	-	/prop/demolition.php	10/26/05	-	-	-	-	-	GET	-	200	16:09:59	00:00:00	_richardkostelanetz/prop/demolition.php	-
+0	4388	-	216.204.174.66	1150	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/demolition.php"	"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050925 Firefox/1.0.4 StumbleUpon/1.999 (Debian package 1.0.4-2sarge5)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	16:10:00	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	216.204.174.66	1151	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/demolition.php"	"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050925 Firefox/1.0.4 StumbleUpon/1.999 (Debian package 1.0.4-2sarge5)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	16:10:00	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	216.204.174.66	1152	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/demolition.php"	"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050925 Firefox/1.0.4 StumbleUpon/1.999 (Debian package 1.0.4-2sarge5)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	16:10:00	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	216.204.174.66	1153	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/demolition.php"	"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050925 Firefox/1.0.4 StumbleUpon/1.999 (Debian package 1.0.4-2sarge5)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	16:10:00	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	216.204.174.66	1154	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20050925 Firefox/1.0.4 StumbleUpon/1.999 (Debian package 1.0.4-2sarge5)"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	16:10:01	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	65.209.17.221	1205	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	16:28:40	00:00:00	_richardkostelanetz/index.html	-
+0	10385	-	86.135.27.104	1275	""	"www.richardkostelanetz.com"	"http://www.metacrawler.com/info.metac/search/web/american%2Bcomedians/1/-/1/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/417/top"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/comedians.php	-	/prop/comedians.php	10/26/05	-	-	-	-	-	GET	-	200	16:40:29	00:00:00	_richardkostelanetz/prop/comedians.php	-
+0	0	-	86.135.27.104	1276	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	16:40:29	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	86.135.27.104	1277	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	16:40:29	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	86.135.27.104	1278	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	16:40:30	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	86.135.27.104	1279	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	16:40:30	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	86.135.27.104	1280	""	"www.richardkostelanetz.com"	""	""	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	16:40:32	00:00:00	_richardkostelanetz/favicon.ico	-
+0	10464	-	67.160.242.29	1289	""	"www.richardkostelanetz.com"	"http://www.comcast.net/qry/websearch?cmd=qry&safe=on&query=lovings&x=14&y=11"	"Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/prop/lovings.php	-	/prop/lovings.php	10/26/05	-	-	-	-	-	GET	-	200	16:44:15	00:00:00	_richardkostelanetz/prop/lovings.php	-
+0	4388	-	67.160.242.29	1290	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	16:44:15	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	67.160.242.29	1291	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	16:44:16	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.160.242.29	1292	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	16:44:16	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	67.160.242.29	1293	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	16:44:16	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	67.160.242.29	1294	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	16:44:16	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	143.229.108.149	1386	""	"www.richardkostelanetz.com"	"http://www.google.com/search?client=safari&rls=en&q=Richard+Kostelanetz&ie=UTF-8&oe=UTF-8"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	17:01:08	00:00:00	_richardkostelanetz/index.html	-
+0	4388	-	143.229.108.149	1387	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	17:01:09	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	143.229.108.149	1388	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	17:01:09	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	30607	-	143.229.108.149	1389	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	17:01:11	00:00:02	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	0	-	143.229.108.149	1390	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	17:01:11	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	8971	-	143.229.108.149	1391	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/prop/index.php	-	/prop/index.php	10/26/05	-	-	-	-	-	GET	-	200	17:01:28	00:00:00	_richardkostelanetz/prop/index.php	-
+0	0	-	143.229.108.149	1392	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	17:01:28	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	30591	-	143.229.108.149	1393	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	17:01:29	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	143.229.108.149	1394	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	17:01:29	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	2404	-	143.229.108.149	1395	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/examples/index.php	-	/examples/index.php	10/26/05	-	-	-	-	-	GET	-	200	17:01:42	00:00:00	_richardkostelanetz/examples/index.php	-
+0	0	-	143.229.108.149	1396	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	17:01:43	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	143.229.108.149	1397	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	17:01:44	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	26076	-	143.229.108.149	1398	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/hdr/hdr_examples.jpg	-	/images/hdr/hdr_examples.jpg	10/26/05	-	-	-	-	-	GET	-	200	17:01:44	00:00:00	_richardkostelanetz/images/hdr/hdr_examples.jpg	-
+0	3098	-	143.229.108.149	1399	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/examples/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/invent/index.php	-	/invent/index.php	10/26/05	-	-	-	-	-	GET	-	200	17:01:48	00:00:00	_richardkostelanetz/invent/index.php	-
+0	0	-	143.229.108.149	1400	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	17:01:49	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	61329	-	143.229.108.149	1401	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	17:01:50	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	0	-	143.229.108.149	1402	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	17:01:50	00:00:02	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	11351	-	143.229.108.149	1403	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/index.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/invent/films.php	-	/invent/films.php	10/26/05	-	-	-	-	-	GET	-	200	17:01:53	00:00:00	_richardkostelanetz/invent/films.php	-
+0	0	-	143.229.108.149	1404	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	17:01:53	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	143.229.108.149	1405	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	17:01:54	00:00:04	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	143.229.108.149	1406	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	17:01:55	00:00:01	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	4478	-	194.6.227.17	1462	""	"www.richardkostelanetz.com"	""	"IP*Works! V5 HTTP/S Component - by /n software - www.nsoftware.com"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	17:18:22	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	1499	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	17:28:39	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	64.185.192.88	1500	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	17:29:12	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	195.198.228.58	1777	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	18:05:16	00:00:00	_richardkostelanetz/index.html	-
+0	12147	-	71.35.125.61	1778	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/prop/public.php	-	/prop/public.php	10/26/05	-	-	-	-	-	GET	-	200	18:06:23	00:00:00	_richardkostelanetz/prop/public.php	-
+0	4388	-	71.35.125.61	1779	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	18:06:23	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	71.35.125.61	1780	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	18:06:24	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	71.35.125.61	1781	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	18:06:24	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	71.35.125.61	1782	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	18:06:24	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	71.35.125.61	1783	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:06:24	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	71.35.125.61	1784	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:06:24	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	71.35.125.61	1793	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	18:06:27	00:00:03	_richardkostelanetz/index.html	-
+0	0	-	71.35.125.61	1794	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/index.html"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	18:06:27	00:00:03	_richardkostelanetz/kostiPrint.css	-
+0	30607	-	71.35.125.61	1795	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/index.html"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_home.jpg	-	/images/hdr/hdr_home.jpg	10/26/05	-	-	-	-	-	GET	-	200	18:06:28	00:00:00	_richardkostelanetz/images/hdr/hdr_home.jpg	-
+0	0	-	71.35.125.61	1796	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/index.html"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	18:06:28	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	68.142.251.146	1797	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	18:06:28	00:00:00	_richardkostelanetz/robots.txt	-
+0	0	-	71.35.125.61	1798	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:06:28	00:00:00	_richardkostelanetz/favicon.ico	-
+0	16591	-	68.142.251.20	1799	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/literacy.php	-	/prop/literacy.php	10/26/05	-	-	-	-	-	GET	-	200	18:06:28	00:00:00	_richardkostelanetz/prop/literacy.php	-
+0	10392	-	128.227.54.160	1825	""	"www.richardkostelanetz.com"	"http://www.google.com/search?q=%22Francis+Schwartz%22&hl=en&lr=&start=90&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/prop/radioplays.php	-	/prop/radioplays.php	10/26/05	-	-	-	-	-	GET	-	200	18:16:54	00:00:00	_richardkostelanetz/prop/radioplays.php	-
+0	0	-	128.227.54.160	1826	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/radioplays.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	18:16:54	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	128.227.54.160	1827	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/radioplays.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	18:16:54	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	128.227.54.160	1828	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/radioplays.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	18:16:55	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	128.227.54.160	1829	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/radioplays.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	18:16:55	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	69.25.71.12	1856	""	"www.richardkostelanetz.com"	""	"Accoona-AI-Agent/1.1.1 (crawler at accoona dot com)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	18:27:06	00:00:00	_richardkostelanetz/robots.txt	-
+0	4478	-	66.249.72.177	1865	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	18:27:33	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	1866	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	18:28:38	00:00:00	_richardkostelanetz/index.html	-
+0	10464	-	64.171.63.2	1867	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/prop/lovings.php	-	/prop/lovings.php	10/26/05	-	-	-	-	-	GET	-	200	18:29:19	00:00:00	_richardkostelanetz/prop/lovings.php	-
+0	4388	-	64.171.63.2	1868	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	18:29:19	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	64.171.63.2	1869	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	18:29:19	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	64.171.63.2	1870	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	18:29:19	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	64.171.63.2	1871	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	18:29:19	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	64.171.63.2	1872	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:29:19	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	64.171.63.2	1873	""	"www.richardkostelanetz.com"	""	""	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:29:20	00:00:00	_richardkostelanetz/favicon.ico	-
+0	10464	-	64.171.63.2	1882	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/prop/lovings.php	-	/prop/lovings.php	10/26/05	-	-	-	-	-	GET	-	200	18:31:13	00:00:00	_richardkostelanetz/prop/lovings.php	-
+0	4388	-	64.171.63.2	1883	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	18:31:14	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	64.171.63.2	1884	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	18:31:14	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	64.171.63.2	1885	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	18:31:14	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	64.171.63.2	1886	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	18:31:14	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	64.171.63.2	1887	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:31:14	00:00:00	_richardkostelanetz/favicon.ico	-
+0	10464	-	64.171.63.2	1888	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/prop/lovings.php	-	/prop/lovings.php	10/26/05	-	-	-	-	-	GET	-	200	18:31:20	00:00:00	_richardkostelanetz/prop/lovings.php	-
+0	0	-	64.171.63.2	1889	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	18:31:20	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	64.171.63.2	1890	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	18:31:20	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	64.171.63.2	1891	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	18:31:20	00:00:00	_richardkostelanetz/favicon.ico	-
+0	11021	-	212.125.93.43	2104	""	"www.richardkostelanetz.com"	"http://www.google.fr/search?hl=fr&ie=ISO-8859-1&q=berlin+en+1945&meta="	"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)"	65.209.17.46:80	/prop/nadir.php	-	/prop/nadir.php	10/26/05	-	-	-	-	-	GET	-	200	19:20:52	00:00:00	_richardkostelanetz/prop/nadir.php	-
+0	0	-	212.125.93.43	2105	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:20:52	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	212.125.93.43	2106	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:20:52	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	212.125.93.43	2107	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	19:20:53	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	212.125.93.43	2108	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:20:53	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	212.125.93.43	2109	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nadir.php"	"Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	19:20:53	00:00:01	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	13383	-	12.145.229.2	2134	""	"www.richardkostelanetz.com"	"http://www.google.com/search?sourceid=navclient&ie=UTF-8&rls=TSHA,TSHA:2005-21,TSHA:en&q=rauschenberg+%22autobiography%22+1968"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/alternative.php	-	/prop/alternative.php	10/26/05	-	-	-	-	-	GET	-	200	19:26:03	00:00:00	_richardkostelanetz/prop/alternative.php	-
+0	0	-	12.145.229.2	2135	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:26:03	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	12.145.229.2	2136	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	19:26:03	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	12.145.229.2	2137	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:26:04	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	12.145.229.2	2138	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	19:26:04	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	68.142.251.146	2139	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	19:26:18	00:00:00	_richardkostelanetz/robots.txt	-
+0	10375	-	68.142.249.77	2140	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/portraits.php	-	/prop/portraits.php	10/26/05	-	-	-	-	-	GET	-	200	19:26:18	00:00:00	_richardkostelanetz/prop/portraits.php	-
+0	4478	-	65.209.17.221	2149	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	19:28:37	00:00:00	_richardkostelanetz/index.html	-
+0	10114	-	24.193.10.27	2150	""	"www.richardkostelanetz.com"	"http://search.yahoo.com/search?p=1001+stories&ei=UTF-8&fr=FP-tab-web-t-310&fl=0&x=wrt"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{1A2B8669-8AFA-4651-B9A2-6EBF35B665BF}; ESB{B904D5D7-538D-4D17-AA6F-CDB1F0D10674}; FunWebProducts; SV1)"	65.209.17.46:80	/prop/1001.php	-	/prop/1001.php	10/26/05	-	-	-	-	-	GET	-	200	19:30:18	00:00:00	_richardkostelanetz/prop/1001.php	-
+0	0	-	24.193.10.27	2151	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/1001.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{1A2B8669-8AFA-4651-B9A2-6EBF35B665BF}; ESB{B904D5D7-538D-4D17-AA6F-CDB1F0D10674}; FunWebProducts; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:30:18	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	24.193.10.27	2152	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/1001.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{1A2B8669-8AFA-4651-B9A2-6EBF35B665BF}; ESB{B904D5D7-538D-4D17-AA6F-CDB1F0D10674}; FunWebProducts; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	19:30:18	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	24.193.10.27	2153	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/1001.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{1A2B8669-8AFA-4651-B9A2-6EBF35B665BF}; ESB{B904D5D7-538D-4D17-AA6F-CDB1F0D10674}; FunWebProducts; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:30:19	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	24.193.10.27	2154	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/1001.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{1A2B8669-8AFA-4651-B9A2-6EBF35B665BF}; ESB{B904D5D7-538D-4D17-AA6F-CDB1F0D10674}; FunWebProducts; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	19:30:19	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4388	-	67.177.59.117	2165	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	19:33:13	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	67.177.59.117	2166	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:33:13	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.177.59.117	2167	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:33:14	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	61329	-	67.177.59.117	2168	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_inventories.jpg	-	/images/hdr/hdr_inventories.jpg	10/26/05	-	-	-	-	-	GET	-	200	19:33:14	00:00:00	_richardkostelanetz/images/hdr/hdr_inventories.jpg	-
+0	160915	-	67.177.59.117	2164	""	"www.richardkostelanetz.com"	"http://www.google.com/search?sourceid=navclient-ff&ie=UTF-8&rls=GGGL,GGGL:2005-09,GGGL:en&q=jp+donlon+farm"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	19:33:14	00:00:01	_richardkostelanetz/invent/mags.php	-
+0	0	-	67.177.59.117	2169	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	19:33:15	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	67.177.59.117	2170	""	"www.richardkostelanetz.com"	""	""	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	19:33:15	00:00:00	_richardkostelanetz/favicon.ico	-
+0	13062	-	67.177.59.117	2171	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/invent/video.php	-	/invent/video.php	10/26/05	-	-	-	-	-	GET	-	200	19:33:26	00:00:00	_richardkostelanetz/invent/video.php	-
+0	0	-	67.177.59.117	2172	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/video.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:33:26	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.177.59.117	2173	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/video.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:33:26	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	67.177.59.117	2174	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	19:33:26	00:00:00	_richardkostelanetz/favicon.ico	-
+0	11351	-	67.177.59.117	2183	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/video.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/invent/films.php	-	/invent/films.php	10/26/05	-	-	-	-	-	GET	-	200	19:34:42	00:00:00	_richardkostelanetz/invent/films.php	-
+0	0	-	67.177.59.117	2184	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:34:42	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.177.59.117	2185	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/films.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:34:42	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	67.177.59.117	2188	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/video.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:35:03	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.177.59.117	2189	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/video.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:35:04	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	67.177.59.117	2190	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	19:35:04	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	67.177.59.117	2191	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:35:05	00:00:01	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.177.59.117	2192	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/invent/mags.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:35:05	00:00:01	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	67.177.59.117	2193	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	19:35:05	00:00:00	_richardkostelanetz/favicon.ico	-
+0	4478	-	140.137.200.30	2306	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	19:41:19	00:00:00	_richardkostelanetz/index.html	-
+0	160915	-	64.236.97.2	2315	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/invent/mags.php	-	/invent/mags.php	10/26/05	-	-	-	-	-	GET	-	200	19:44:00	00:00:00	_richardkostelanetz/invent/mags.php	-
+0	12995	-	67.84.183.41	2363	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/composerswriters.php	-	/prop/composerswriters.php	10/26/05	-	-	-	-	-	GET	-	200	19:53:16	00:00:00	_richardkostelanetz/prop/composerswriters.php	-
+0	4388	-	67.84.183.41	2364	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	19:53:16	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	67.84.183.41	2365	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:53:16	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	67.84.183.41	2366	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:53:16	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	67.84.183.41	2367	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/composerswriters.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	19:53:16	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	11945	-	198.146.205.196	2389	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&lr=&q=John+Cage+poetry&btnG=Search"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/cage.php	-	/prop/cage.php	10/26/05	-	-	-	-	-	GET	-	200	19:55:09	00:00:00	_richardkostelanetz/prop/cage.php	-
+0	0	-	198.146.205.196	2390	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	19:55:09	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	198.146.205.196	2391	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	19:55:09	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	198.146.205.196	2392	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	19:55:09	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	198.146.205.196	2393	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/cage.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	19:55:09	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	12147	-	69.231.192.19	2449	""	"www.richardkostelanetz.com"	"http://search.yahoo.com/search?p=Public+art+proposals&fr=FP-tab-web-t&toggle=1&cop=&ei=UTF-8"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/public.php	-	/prop/public.php	10/26/05	-	-	-	-	-	GET	-	200	20:12:44	00:00:00	_richardkostelanetz/prop/public.php	-
+0	0	-	69.231.192.19	2450	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	20:12:44	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	69.231.192.19	2451	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	20:12:44	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	69.231.192.19	2452	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	20:12:44	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	69.231.192.19	2453	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	20:12:44	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	13275	-	69.231.192.19	2454	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/exwordsand.php	-	/prop/exwordsand.php	10/26/05	-	-	-	-	-	GET	-	200	20:13:05	00:00:00	_richardkostelanetz/prop/exwordsand.php	-
+0	0	-	69.231.192.19	2455	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/exwordsand.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	20:13:05	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	69.231.192.19	2456	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/exwordsand.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	20:13:05	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	69.231.192.19	2457	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	20:13:11	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	69.231.192.19	2458	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/public.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	20:13:11	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4478	-	62.2.162.51	2476	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	20:21:20	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	2559	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	20:28:37	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	66.196.91.167	2560	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	20:28:41	00:00:00	_richardkostelanetz/robots.txt	-
+0	330292	-	66.196.91.14	2561	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/histories/bib.php	-	/histories/bib.php	10/26/05	-	-	-	-	-	GET	-	200	20:28:43	00:00:01	_richardkostelanetz/histories/bib.php	-
+0	4478	-	220.181.26.74	2586	""	"www.richardkostelanetz.com"	""	"sohu-search"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	20:37:29	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	220.181.26.106	2676	""	"www.richardkostelanetz.com"	""	"sohu agent"	65.209.17.46:80	/proposals.html	-	/proposals.html	10/26/05	-	-	-	-	-	GET	-	404	20:58:39	00:00:00	_richardkostelanetz/proposals.html	-
+0	0	-	220.181.26.106	2677	""	"www.richardkostelanetz.com"	""	"sohu agent"	65.209.17.46:80	/etcetera1.html	-	/etcetera1.html	10/26/05	-	-	-	-	-	GET	-	404	20:58:44	00:00:04	_richardkostelanetz/etcetera1.html	-
+0	10385	-	66.193.160.162	2718	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=american+comedians"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/comedians.php	-	/prop/comedians.php	10/26/05	-	-	-	-	-	GET	-	200	21:10:27	00:00:00	_richardkostelanetz/prop/comedians.php	-
+0	4388	-	66.193.160.162	2719	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	21:10:27	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	66.193.160.162	2720	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	21:10:27	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	66.193.160.162	2721	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	21:10:27	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	66.193.160.162	2722	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	21:10:27	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	66.193.160.162	2723	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	21:10:36	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	66.193.160.162	2724	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/comedians.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	21:10:36	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	4478	-	65.209.17.221	2834	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	21:28:36	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	66.249.66.233	2835	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	21:29:26	00:00:00	_richardkostelanetz/index.html	-
+0	10673	-	205.250.5.120	2836	""	"www.richardkostelanetz.com"	"http://www.google.ca/search?q=speak+with+a+%22New+York+accent%22&hl=en"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/iwasborn.php	-	/prop/iwasborn.php	10/26/05	-	-	-	-	-	GET	-	200	21:29:42	00:00:00	_richardkostelanetz/prop/iwasborn.php	-
+0	0	-	205.250.5.120	2837	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	21:29:42	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	205.250.5.120	2838	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	21:29:42	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	205.250.5.120	2839	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	21:29:43	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	205.250.5.120	2840	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/iwasborn.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	21:29:43	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	419686	-	64.236.97.2	2867	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/histories/unfinished.php	-	/histories/unfinished.php	10/26/05	-	-	-	-	-	GET	-	200	21:39:14	00:00:02	_richardkostelanetz/histories/unfinished.php	-
+0	7282	-	64.236.97.2	2868	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/histories/public.php	-	/histories/public.php	10/26/05	-	-	-	-	-	GET	-	200	21:39:14	00:00:00	_richardkostelanetz/histories/public.php	-
+0	0	-	220.181.26.106	2879	""	"www.richardkostelanetz.com"	""	"sohu agent"	65.209.17.46:80	/proposals.html	-	/proposals.html	10/26/05	-	-	-	-	-	GET	-	404	21:41:18	00:00:01	_richardkostelanetz/proposals.html	-
+0	0	-	220.181.26.106	2880	""	"www.richardkostelanetz.com"	""	"sohu agent"	65.209.17.46:80	/etcetera1.html	-	/etcetera1.html	10/26/05	-	-	-	-	-	GET	-	404	21:41:32	00:00:01	_richardkostelanetz/etcetera1.html	-
+0	12442	-	64.236.97.1	2899	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/prop/cummings.php	-	/prop/cummings.php	10/26/05	-	-	-	-	-	GET	-	200	21:47:34	00:00:00	_richardkostelanetz/prop/cummings.php	-
+0	13547	-	64.173.197.117	2957	""	"www.richardkostelanetz.com"	"http://www.google.com/search?q=literary+analogy&hl=en&lr=&start=10&sa=N"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/choice.php	-	/prop/choice.php	10/26/05	-	-	-	-	-	GET	-	200	22:05:40	00:00:00	_richardkostelanetz/prop/choice.php	-
+0	0	-	64.173.197.117	2958	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/choice.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	22:05:40	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	64.173.197.117	2959	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/choice.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	22:05:40	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	64.173.197.117	2960	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/choice.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	22:05:41	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	64.173.197.117	2961	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/choice.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	22:05:41	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	65.209.17.221	3245	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	22:28:36	00:00:00	_richardkostelanetz/index.html	-
+0	10094	-	207.200.116.138	3255	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/goldman.php	-	/prop/goldman.php	10/26/05	-	-	-	-	-	GET	-	200	22:32:21	00:00:00	_richardkostelanetz/prop/goldman.php	-
+0	0	-	207.200.116.135	3256	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/goldman.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	22:32:22	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	207.200.116.195	3257	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/goldman.php"	"Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	22:32:24	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	202.160.180.67	3758	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	22:51:51	00:00:00	_richardkostelanetz/robots.txt	-
+-	111421	-	202.160.180.130	3759	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/histories/bib.php	-	/histories/bib.php	10/26/05	-	-	-	-	-	GET	-	200	22:53:09	00:01:17	_richardkostelanetz/histories/bib.php	-
+0	0	-	68.142.251.146	3760	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	22:53:48	00:00:00	_richardkostelanetz/robots.txt	-
+0	10668	-	68.142.250.144	3761	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/prop/sports.php	-	/prop/sports.php	10/26/05	-	-	-	-	-	GET	-	200	22:53:49	00:00:00	_richardkostelanetz/prop/sports.php	-
+0	2404	-	68.142.251.22	3762	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/examples/index.php	-	/examples/index.php	10/26/05	-	-	-	-	-	GET	-	200	22:54:07	00:00:00	_richardkostelanetz/examples/index.php	-
+0	4478	-	66.141.90.103	3771	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) "	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	22:54:36	00:00:00	_richardkostelanetz/index.html	-
+0	11088	-	213.203.184.30	3780	""	"www.richardkostelanetz.com"	""	"InetURL/1.0"	65.209.17.46:80	/prop/exvideo.php	-	/prop/exvideo.php	10/26/05	-	-	-	-	-	GET	-	200	22:57:43	00:00:00	_richardkostelanetz/prop/exvideo.php	-
+0	11088	-	213.203.184.30	3781	""	"www.richardkostelanetz.com"	""	"InetURL/1.0"	65.209.17.46:80	/prop/exvideo.php	-	/prop/exvideo.php	10/26/05	-	-	-	-	-	GET	-	200	22:57:57	00:00:00	_richardkostelanetz/prop/exvideo.php	-
+0	13383	-	68.112.166.1	3782	""	"www.richardkostelanetz.com"	"http://search.msn.com/results.aspx?q=alfred+kazin+%2B+%22The+Kitchen%22&FORM=MSNH&srch_type=0"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/alternative.php	-	/prop/alternative.php	10/26/05	-	-	-	-	-	GET	-	200	22:58:41	00:00:00	_richardkostelanetz/prop/alternative.php	-
+0	0	-	68.112.166.1	3783	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	22:58:41	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	68.112.166.1	3784	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	22:58:42	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	68.112.166.1	3785	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	22:58:42	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	68.112.166.1	3786	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/alternative.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	22:58:42	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+-	133860	-	64.236.97.1	3787	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)"	65.209.17.46:80	/histories/bib.php	-	/histories/bib.php	10/26/05	-	-	-	-	-	GET	-	200	22:59:19	00:00:01	_richardkostelanetz/histories/bib.php	-
+0	10815	-	69.76.40.10	3822	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&q=special+sounds&btnG=Google+Search"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/prop/specialsounds.php	-	/prop/specialsounds.php	10/26/05	-	-	-	-	-	GET	-	200	23:11:18	00:00:00	_richardkostelanetz/prop/specialsounds.php	-
+0	0	-	69.76.40.10	3823	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/specialsounds.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	23:11:18	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	69.76.40.10	3824	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/specialsounds.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	23:11:18	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	69.76.40.10	3825	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/specialsounds.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	23:11:18	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	69.76.40.10	3826	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/specialsounds.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	23:11:18	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	69.183.73.237	3827	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	23:12:00	00:00:00	_richardkostelanetz/index.html	-
+0	13062	-	213.203.184.30	3836	""	"www.richardkostelanetz.com"	""	"InetURL/1.0"	65.209.17.46:80	/invent/video.php	-	/invent/video.php	10/26/05	-	-	-	-	-	GET	-	200	23:12:56	00:00:00	_richardkostelanetz/invent/video.php	-
+0	0	-	66.249.64.36	3845	""	"www.richardkostelanetz.com"	""	"Googlebot/2.1 (+http://www.google.com/bot.html)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/26/05	-	-	-	-	-	GET	-	404	23:16:54	00:00:00	_richardkostelanetz/robots.txt	-
+0	4478	-	66.249.64.36	3846	""	"www.richardkostelanetz.com"	""	"Googlebot/2.1 (+http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	23:16:54	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	212.219.247.242	3863	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	23:22:22	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	81.171.236.2	3872	""	"www.richardkostelanetz.com"	""	"Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0) Fetch API Request"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	304	23:25:26	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	3881	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	23:28:35	00:00:00	_richardkostelanetz/index.html	-
+0	10457	-	65.92.122.6	3882	""	"www.richardkostelanetz.com"	"http://www.google.ca/search?hl=en&q=ogden+nash+essays&spell=1"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/prop/nash.php	-	/prop/nash.php	10/26/05	-	-	-	-	-	GET	-	200	23:28:48	00:00:00	_richardkostelanetz/prop/nash.php	-
+0	0	-	65.92.122.6	3883	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nash.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	23:28:48	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	4388	-	65.92.122.6	3884	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nash.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	23:28:49	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	65.92.122.6	3885	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nash.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	23:28:49	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	65.92.122.6	3886	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/nash.php"	"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	23:28:49	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	4478	-	66.249.71.14	3895	""	"www.richardkostelanetz.com"	""	"Googlebot/2.1 (+http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/26/05	-	-	-	-	-	GET	-	200	23:31:45	00:00:00	_richardkostelanetz/index.html	-
+0	10464	-	24.24.167.77	3981	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/prop/lovings.php	-	/prop/lovings.php	10/26/05	-	-	-	-	-	GET	-	200	23:47:29	00:00:00	_richardkostelanetz/prop/lovings.php	-
+0	4388	-	24.24.167.77	3982	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/26/05	-	-	-	-	-	GET	-	200	23:47:30	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	24.24.167.77	3983	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	23:47:30	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	24.24.167.77	3984	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	23:47:30	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	30591	-	24.24.167.77	3985	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/26/05	-	-	-	-	-	GET	-	200	23:47:30	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	24.24.167.77	3986	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	23:47:31	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	24.24.167.77	4053	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/26/05	-	-	-	-	-	GET	-	404	23:49:22	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	0	-	24.24.167.77	4054	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/lovings.php"	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/26/05	-	-	-	-	-	GET	-	404	23:49:23	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	24.24.167.77	4055	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/26/05	-	-	-	-	-	GET	-	404	23:49:23	00:00:00	_richardkostelanetz/favicon.ico	-
+0	18573	-	68.161.151.18	4106	""	"www.richardkostelanetz.com"	"http://www.google.com/search?hl=en&lr=&q=elizabeth+streb&btnG=Search"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/prop/streb.php	-	/prop/streb.php	10/27/05	-	-	-	-	-	GET	-	200	00:06:16	00:00:00	_richardkostelanetz/prop/streb.php	-
+0	4388	-	68.161.151.18	4107	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/streb.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kosti.css	-	/kosti.css	10/27/05	-	-	-	-	-	GET	-	200	00:06:16	00:00:00	_richardkostelanetz/kosti.css	-
+0	0	-	68.161.151.18	4108	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/streb.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/kostiPrint.css	-	/kostiPrint.css	10/27/05	-	-	-	-	-	GET	-	404	00:06:16	00:00:00	_richardkostelanetz/kostiPrint.css	-
+0	30591	-	68.161.151.18	4109	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/streb.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/hdr/hdr_proposals.jpg	-	/images/hdr/hdr_proposals.jpg	10/27/05	-	-	-	-	-	GET	-	200	00:06:16	00:00:00	_richardkostelanetz/images/hdr/hdr_proposals.jpg	-
+0	0	-	68.161.151.18	4110	""	"www.richardkostelanetz.com"	"http://www.richardkostelanetz.com/prop/streb.php"	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/images/patternIllumNewGsmall2.gif	-	/images/patternIllumNewGsmall2.gif	10/27/05	-	-	-	-	-	GET	-	404	00:06:16	00:00:00	_richardkostelanetz/images/patternIllumNewGsmall2.gif	-
+0	0	-	68.161.151.18	4111	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.7 (KHTML, like Gecko) Safari/412.5"	65.209.17.46:80	/favicon.ico	-	/favicon.ico	10/27/05	-	-	-	-	-	GET	-	404	00:06:16	00:00:00	_richardkostelanetz/favicon.ico	-
+0	0	-	66.249.66.233	4179	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/27/05	-	-	-	-	-	GET	-	404	00:28:10	00:00:00	_richardkostelanetz/robots.txt	-
+0	4478	-	66.249.66.233	4180	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"	65.209.17.46:80	/index.html	-	/index.html	10/27/05	-	-	-	-	-	GET	-	200	00:28:10	00:00:00	_richardkostelanetz/index.html	-
+0	4478	-	65.209.17.221	4181	""	"www.richardkostelanetz.com"	""	"PageSentry (Macintosh)"	65.209.17.46:80	/index.html	-	/index.html	10/27/05	-	-	-	-	-	GET	-	200	00:28:34	00:00:00	_richardkostelanetz/index.html	-
+0	0	-	68.142.251.146	4268	""	"www.richardkostelanetz.com"	""	"Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"	65.209.17.46:80	/robots.txt	-	/robots.txt	10/27/05	-	-	-	-	-	GET	-	404	00:58:21	00:00:00	_richardkostelanetz/robots.txt	-

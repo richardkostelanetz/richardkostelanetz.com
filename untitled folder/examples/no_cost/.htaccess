@@ -1,0 +1,5 @@
+AuthUserFile /www_pw/.ht_kosti
+AuthName "Please Log In"
+AuthType Basic
+
+require user delay
