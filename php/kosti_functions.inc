@@ -17,7 +17,7 @@ function navFooter() { ?>
 	<div>Earl of Wordship</div>
 		<div>1600 Norman Street</div>
 		<div>Ridgewood, NY 11385-5751 USA</div>
- 		<div><a href="mailto:RichKostelanetz@aol.com">RichKostelanetz@aol.com</a></div>  	  
+ 		<div><a href="mailto:RichKostelanetz@gmail.com">RichKostelanetz@gmail.com</a></div>  	  
 	   	<!-- END Footer -->   
     </div>
   </body>
